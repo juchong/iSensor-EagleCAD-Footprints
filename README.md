@@ -1,5 +1,5 @@
-# iSensor EagleCAD IMU Module Libraries
-A collection of ADI iSensor IMU Libraries
+# iSensor EagleCAD IMU Module Footprints
+A collection of ADI iSensor IMU Footprints for EagleCAD
 
 # Available Device Footprints
 * **ADIS1644x** - Compatible with ADIS16445 and ADIS16448 devices. Requires the use of a Samtec CLM-110-02 or equivalent.
